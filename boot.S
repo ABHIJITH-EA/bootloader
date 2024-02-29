@@ -85,14 +85,9 @@ start:
 
  */
 
-movw $0x2402, %ax
-int $0x15
-
 movw $0x2400, %ax
 int $0x15
 
-movw $0x2402, %ax
-int $0x15
 call check_a20_status
 jmp .
 
