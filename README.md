@@ -2,5 +2,5 @@
 
 ```
 Developer: Ea37
-Language: Gnu as, & C
+Language: GNU as, & C
 ```
