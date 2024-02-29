@@ -8,5 +8,6 @@ Curretnly in debugging stage
 ---
 ```
 Developer: Ea37
-Language: GNU as, & C
+Language: GNU as
+Tools: GDB, Make, Qemu
 ```
