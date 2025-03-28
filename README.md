@@ -11,3 +11,7 @@ Developer: Ea37
 Language: GNU as
 Tools: GDB, Make, Qemu
 ```
+
+#### Dependency
+---
+- qemu-system-i386
